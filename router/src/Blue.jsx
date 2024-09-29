@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function Blue() {
+export default function blue() {
   return (
-    <div className="Blue">
+    <div className="blue">
       <h1>Blue</h1>
     </div>
   );
